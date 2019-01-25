@@ -20,7 +20,7 @@ end
 
 def square_root(num)
   num2 = num.sqrt(x)
-  num2
+  return [x]
 end
 
 def order_of_operation(num1, num2, num3, num4)
